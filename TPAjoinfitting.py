@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 ####################################################################
 ##################### IMPORTING REQUIRED MODULES ###################
 
@@ -410,16 +404,3 @@ for e in range(first_file, numberoffiles):
 
 np.savetxt('allinall_tpa.csv', allinall, fmt = '%s', delimiter=',', newline='\n', 
            header = 'Flake,status,D_Intensity,D_Position,D_FWHM,G_Intensity,G_Position,G_FWHM,D\'_Intensity,D\'_Position,D\'_FWHM,tpa_Intensity,tpa_Position,tpa_FWHM,2D_Intensity,2D_Position,2D_FWHM,2D\'_Intensity,2D\'_Position,2D\'_FWHM, R^2')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
