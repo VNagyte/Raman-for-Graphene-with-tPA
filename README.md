@@ -1,4 +1,4 @@
-# Welcome to Raman spectroscopy analysis tool for graphene
+# Welcome to graphene Raman spectroscopy analysis tool
 
 Raman spectroscopy analysis script created to evaluate Raman parameters of graphene and detect trans-polyacetylene chains. By performing individual Raman peak fittings of two areas: around G and 2D peaks, this makes it is possible consistently ectract information and analyse it. Additionally, the presence of trans-polyacetelyne chains evaluated. One has to remember that for accurate analysis, the Raman spectrum for G peak should start from 1050 cm<sup>-1<sup>.
 
