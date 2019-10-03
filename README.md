@@ -15,4 +15,5 @@ Raman spectroscopy analysis script created to evaluate Raman parameters of graph
 # Reference
 
 If you find this code useful, please don't forget to reference our work!
+
 Vaiva Nagyte, Daniel J. Kelly, Alexandre Felten, Gennaro Picardi, YuYoung Shin, Adriana Alieva, Robyn E. Worsley, Khaled Parvez, Simone Dehm, Ralph Krupke, Sarah J. Haigh, Antonios Oikonomou, Andrew J. Pollard, Cinzia Casiraghi. "Raman Fingerprints of Graphene Produced by Anodic Electrochemical Exfoliation"
