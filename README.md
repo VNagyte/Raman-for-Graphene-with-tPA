@@ -11,3 +11,8 @@ Raman spectroscopy analysis script created to evaluate Raman parameters of graph
 1. Place the script into a folder with all data.
 1. Run it.
 1. All results will be in the sample folder: figures (.png), fitting parameters (.cvs), normalised spectra (.txt).
+
+# Reference
+
+If you find this code useful, please don't forget to reference our work!
+Vaiva Nagyte, Daniel J. Kelly, Alexandre Felten, Gennaro Picardi, YuYoung Shin, Adriana Alieva, Robyn E. Worsley, Khaled Parvez, Simone Dehm, Ralph Krupke, Sarah J. Haigh, Antonios Oikonomou, Andrew J. Pollard, Cinzia Casiraghi. "Raman Fingerprints of Graphene Produced by Anodic Electrochemical Exfoliation"
