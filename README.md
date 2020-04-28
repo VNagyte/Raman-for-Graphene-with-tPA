@@ -4,16 +4,17 @@ Raman spectroscopy analysis script created to evaluate Raman parameters of graph
 
 # How to proceed
 
+1. Make sure you have rampy, pylab, matplotlib, scipy packages installed. Look for pip install command to install them otherwise.
 1. Edit Python script according to your data:
     1. Rename file file_baseg, file_base2d depending on your .txt file names.
     1. Set first_file number.
     1. Provide with ratio between intensities of G and 2D peaks.
 1. Place the script into a folder with all data.
-1. Run it.
+1. Run it via terminal or Jupyter notebook.
 1. All results will be in the sample folder: figures (.png), fitting parameters (.cvs), normalised spectra (.txt).
 
 # Reference
 
 If you find this code useful, please don't forget to reference our work!
 
-Vaiva Nagyte, Daniel J. Kelly, Alexandre Felten, Gennaro Picardi, YuYoung Shin, Adriana Alieva, Robyn E. Worsley, Khaled Parvez, Simone Dehm, Ralph Krupke, Sarah J. Haigh, Antonios Oikonomou, Andrew J. Pollard, Cinzia Casiraghi. "Raman Fingerprints of Graphene Produced by Anodic Electrochemical Exfoliation"
+Vaiva Nagyte, Daniel J. Kelly, Alexandre Felten, Gennaro Picardi, YuYoung Shin, Adriana Alieva, Robyn E. Worsley, Khaled Parvez, Simone Dehm, Ralph Krupke, Sarah J. Haigh, Antonios Oikonomou, Andrew J. Pollard, Cinzia Casiraghi. "Raman Fingerprints of Graphene Produced by Anodic Electrochemical Exfoliation" DOI: /10.1021/acs.nanolett.0c00332
