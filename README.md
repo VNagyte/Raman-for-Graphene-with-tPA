@@ -10,7 +10,7 @@ Raman spectroscopy analysis script created to evaluate Raman parameters of graph
     1. Set first_file number.
     1. Provide with ratio between intensities of G and 2D peaks.
 1. Place the script into a folder with all data.
-1. Run it via terminal or Jupyter notebook.
+1. Run it via Jupyter notebook.
 1. All results will be in the sample folder: figures (.png), fitting parameters (.cvs), normalised spectra (.txt).
 
 # Reference
